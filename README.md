@@ -3,6 +3,8 @@
 OBJECTIVE-Clustering of Iris Dataset
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+![image](https://user-images.githubusercontent.com/87874194/173137016-4d1faa4c-3ad1-4193-b18b-fc21e83c4882.png)
+
 
 ALGORITHM USED - K-Means
 
